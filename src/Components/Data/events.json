@@ -1,0 +1,86 @@
+{
+"events" : [
+  {
+    "id": "1",
+    "name": "Hackgirls: Tecnologías Web aplicadas en la Industria",
+    "imgEvent": "https://image.ibb.co/m1vKXx/desk_916279_1280_1024x682.jpg",
+    "location": "Mercado Libre, Apoquindo #4800, Las Condes, Santiago.",
+    "date":"27/03/2018",
+    "hour": "18.30 a 21 hrs.",
+    "description": "Hackgirls junto a Mercado Libre, crearán una instancia de conversación, aprendizaje y networking para mujeres programadoras. Hablaremos de tendencias, casos de uso​ de tecnologías y metodologías globalmente populares, prácticas y eficaces!​ Contaremos con charlas especializadas en ​User Experience (UX), React​ / Redux​ y Métricas.",
+    "url": "http://hackgirls.org/",
+    "places": "30"
+  },
+  {
+    "id": "2",
+    "name": "Aprende a programar con React",
+    "imgEvent": "https://image.ibb.co/fOek5H/react_logo.png",
+    "location": "Desafío Latam, Miguel Claro #1074, Providencia, Santiago.",
+    "date":"4/04/2018",
+    "hour": "9.00 a 14.00hrs",
+    "description": "En 7 Sábados aprende de manera 100% práctica y presencial la librería de JavaScript.",
+    "url": "http://desafiolatam.com/",
+    "places": "15"
+  },
+  {
+    "id": "3",
+    "name": "Charla: JavaScript para Todos",
+    "imgEvent": "https://image.ibb.co/fAuBec/Java_Script.png",
+    "location": "General Holley #133, Providencia, Santiago.",
+    "date":"21/03/2018",
+    "hour": "19 a 21 hrs.",
+    "description": "Te invitamos a participar de esta charla, la cual será una demostración de las capacidades de JavaScript, desde las funciones básicas hasta otras más avanzadas. Te mostraremos cómo se ensamblan las partes de una aplicación hecha íntegramente con JS. Queremos mostrarte en la práctica no sólo qué es JS, sino también qué se está desarrollando hoy y cómo integrarlo en la vida real.",
+    "places": "15"
+  },
+  {
+    "id": "4",
+    "name": "Extreme Programming desde Cero! - Digital Lab CoE",
+    "imgEvent": "https://image.ibb.co/e0exkH/Captura_de_pantalla_2018_03_21_a_las_16_31_16.png",
+    "location": "Coe Everis. Apoquindo #3472, Edificio Patio Foster, piso 15.",
+    "date":"21/03/2018",
+    "hour": "19:30 a 21:00 hrs.",
+    "description": "“Extreme Programming”, “Programación Extrema” o 'XP' es uno de los marcos de trabajo ágiles de desarrollo de software más exitosos. Es habitual relacionarlo con “Scrum”, sin embargo, la combinación de ambas herramientas, permitirá un mayor control sobre el proyecto y una implementación más efectiva y eficiente.",
+    "places": "40"
+  },
+  {
+    "id": "5",
+    "name": "Google’s Women Techmakers: Product Design Sprint",
+    "imgEvent": "https://image.ibb.co/iOtPzc/Captura_de_pantalla_2018_03_21_a_las_21_28_38.png",
+    "location": "Edificio Telefónica I+D, Manuel Montt #1404, Providencia, Santiago.",
+    "date":"03-04-2018",
+    "hour": "17 hrs.",
+    "description": "Google’s Women Techmakers realizará un meeting y workshop exclusivo para mujeres denominado “Design Sprint”. Sandra Vilches, autora del blog Bitácora UX, será la encargada de dirigir el evento.",
+    "places": "20"
+  },
+  {
+    "id": "6",
+    "name": "Metodología de desarrollo en ComparaOnline",
+    "imgEvent": "https://image.ibb.co/khOMCx/flyer_meet_up_2.png",
+    "location": "Almirante Pastene #244, piso 10, Providencia, Santiago.",
+    "date":"25-05-2018",
+    "hour": "19.30 hrs.",
+    "description": "Joaquín Moreira, Technical Leader y Esteban Martini, Front End Developer, realizarán una charla en donde repasaran los cambios organizacionales y tecnológicos que llevaron a ComparaOnline a modernizar la manera de crear software.",
+    "places": "50"
+  },
+  {
+    "id": "7",
+    "name": "Front-End Day 2018",
+    "imgEvent": "https://image.ibb.co/dAqezc/evento_hackgirls_frontday_ver2.png",
+    "location": "Av. Manuel Montt #1404 Providencia, Santiago",
+    "date":"30-04-2018",
+    "hour": "09 hrs.",
+    "description": "Aprende en 1 día a diseñar páginas web con HTML+CSS desde cero. Tendremos para ti charlas de mujeres líderes en tecnología y emprendimiento, para aumentar la motivación.",
+    "places": "30"
+  },
+  {
+    "id": "8",
+    "name": "Hackgirls - Taller de Asesor Virtual con IBM Cloud",
+    "imgEvent": "https://image.ibb.co/kyZ6xx/Chatbots_Servicios_Atencios_Clientes610.jpg",
+    "location": "Infante #1415, Providencia, Santiago.",
+    "date":"20-04-2018",
+    "hour": "19 hrs.",
+    "description": "Crea tu propio asesor virtual el cual simulará una conversación. Podrás crear una aplicación que entienda lenguaje natural y use el aprendizaje automático para responder a los usuarios de una manera que simule una conversación entre humanos.",
+    "places": "20"
+  }
+]
+}
